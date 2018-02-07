@@ -10,5 +10,7 @@ Lecture 4
 97 Bottles of Beer on the wall, take one down, pass it around.
 
 96 Bottles of Beer on the wall, take one down, pass it around.
-  
-95 Bottles of Beer on the wall, take one down, pass it around. 
+
+95 Bottles of Beer on the wall, take one down, pass it around.
+
+94 Bottles of Beer on the wall, take one down, pass it around. 
